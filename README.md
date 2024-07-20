@@ -86,24 +86,10 @@ Facelog presents a pioneering solution for attendance management, redefining con
 
 ## Contributors
 
-- Ayesha Imam
-- Ammar Ahmed Khan
-- Fatima Zehra
-- Meerab Tahir
-- Moin Rauf
-- Sara Naeem Aslam
+- [Ayesha Imam](https://github.com/Ayesha-Imam)
+- [Ammar Ahmed Khan](https://github.com/AmmarAhmed14)
+- [Fatima Zehra](https://github.com/FZehra1512)
+- [Meerab Tahir](https://github.com/MeerabTahir)
+- [Moin Rauf](https://github.com/MoinRauf)
+- [Sara Naeem Aslam](https://github.com/saranaeem1)
 
-## Acknowledgments
-
-We would like to thank the following resources for their contribution to this project:
-
-- OpenCV for providing the facial recognition functionality.
-- React for the frontend framework, enabling the creation of a user-friendly interface.
-- Flask for the backend framework, facilitating the development of robust server-side logic.
-- Various npm packages and Python libraries utilized throughout the development process, enhancing the functionality and efficiency of the system.
-
-## Contact
-
-For any inquiries or support, please contact:
-
-- Moin Rauf: moinraufc04@gmail.com
